@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'New Tegomin', serif;
+}
+.main{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),url(./sjvtlq0.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.content{
+    height: 100vh;
+}
+.about, .contact{
+    background:rgba(63, 5, 75, 0.945);
+}
+.domains{
+    background: rgb(186, 157, 233);
+}
+.dom{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 0 !important;
+}
